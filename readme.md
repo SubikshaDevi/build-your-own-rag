@@ -59,7 +59,6 @@ source .venv/bin/activate
 Install dependencies:
 ```bash
 pip install -r requirements.txt
-Environment Variables
 ```
 
 Create a .env file based on .env.example:
