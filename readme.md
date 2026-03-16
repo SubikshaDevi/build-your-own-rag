@@ -36,7 +36,7 @@ build-your-own-rag/
 ├── .gitignore
 ├── .env.example
 │
-├── starter_code.ipynb
+├── rag_starter_code.ipynb
 │
 ├── data/
    └── sample.pdf
