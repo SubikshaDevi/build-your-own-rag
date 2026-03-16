@@ -46,8 +46,8 @@ build-your-own-rag/
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/pdf-rag-workshop.git
-cd pdf-rag-workshop
+git clone https://github.com/SubikshaDevi/build-your-own-rag.git
+cd build-your-own-rag
 ```
 
 Create a virtual environment:
