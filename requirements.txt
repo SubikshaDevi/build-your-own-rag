@@ -1,0 +1,6 @@
+groq
+pypdf
+chromadb
+sentence-transformers
+python-dotenv
+jupyter
