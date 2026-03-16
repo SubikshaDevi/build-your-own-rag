@@ -69,6 +69,6 @@ GROQ_API_KEY=your_groq_api_key_here
 Run in Jupyter / Colab
 Open the notebook:
 ```bash
-jupyter notebook notebooks/groq_rag_starter_colab.ipynb
+jupyter notebook notebooks/rag_starter_code.ipynb
 ```
 Or upload the notebook to Google Colab and run it there.
