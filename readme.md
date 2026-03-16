@@ -36,8 +36,7 @@ build-your-own-rag/
 ├── .gitignore
 ├── .env.example
 │
-├── notebooks/
-│   └── groq_rag_starter_colab.ipynb
+├── starter_code.ipynb
 │
 ├── data/
    └── sample.pdf
